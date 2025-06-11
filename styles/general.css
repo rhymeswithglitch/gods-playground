@@ -57,7 +57,7 @@ h1 {
   margin: 5em auto 0;
   border: solid 5px tomato;
 
-  p { 
+  ul li { 
     display: block; 
     max-width: 100%; 
     border-radius: 50%;
