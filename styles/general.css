@@ -17,6 +17,10 @@ h1 {
   margin: auto;
 }
 
+div.container {
+  text-align: center;
+}
+
   ul li { 
     list-style-position: inside; 
     display: block; 
