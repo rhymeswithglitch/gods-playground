@@ -7,6 +7,10 @@ body {
   padding-right: 24px;
      }
 
+.radial-gradient{
+  background: radial-gradient(circle cover center, #FFF7EE, #EEFFF0);
+}
+
 p {
   text-align: center;
   margin: 0;
