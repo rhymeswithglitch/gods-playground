@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>God's Playground</title>
+
+    <link rel="stylesheet" href="styles/general.css">
+    <link rel="stylesheet" href="styles/header.css">
+  </head>
+  <body>
+    <h1>Welcome to the void</h1>
+    <ul>
+      <li>Videos</li>
+      <li><a href="https://medium.com/@deaurevoir" target="_blank">Writing</a></li>
+      <li>Music</li>
+      <li><a href="pages/FlyerArchive.html" target="_blank">Events</a></li>
+      <li>About</li>
+      <li>Contact</li>
+    </ul>
+  </body>
+</html>
