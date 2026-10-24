@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About Classical Open Stage</title>
 
+    <link rel="stylesheet" href="styles/general.css">
+    <link rel="stylesheet" href="styles/header.css">
+  </head>
+  <body>
+    <h1>About Classical Open Stage</h1>
+    <p>
+    Classical Open Stage is a monthly event series here in Berlin where we get together to make classical music. Anyone is welcome to join, anyone is welcome to perform, and of course, listeners are welcome too.
+    </p>
+  </body>
+</html>
